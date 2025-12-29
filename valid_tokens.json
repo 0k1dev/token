@@ -1,4 +1,40 @@
-THM{student001},
-THM{student002},
-THM{student003},
-THM{abc123xyz789}
+{
+  "last_updated": "2025-12-29T16:30:00",
+  "total_tokens": 4,
+  "app_name": "English Learning Pro",
+  "app_version": "1.0.0",
+  "tokens": [
+    {
+      "token": "ENG2025-7A3B9C2D8E1F",
+      "username": "john_doe",
+      "license_type": "premium",
+      "expiry_date": "2026-12-29T23:59:59",
+      "created_at": "2025-12-29T10:00:00",
+      "status": "active"
+    },
+    {
+      "token": "THM{8D4E7F2A9C3B1D6}",
+      "username": "jane_smith",
+      "license_type": "basic",
+      "expiry_date": "2025-03-29T23:59:59",
+      "created_at": "2025-12-28T14:30:00",
+      "status": "active"
+    },
+    {
+      "token": "ELP2025-ABCD-EFGH-IJKL",
+      "username": "alice_wong",
+      "license_type": "premium",
+      "expiry_date": "2025-06-29T23:59:59",
+      "created_at": "2025-12-27T09:15:00",
+      "status": "active"
+    },
+    {
+      "token": "A1B2C3D4E5F6G7H8",
+      "username": "bob_johnson",
+      "license_type": "trial",
+      "expiry_date": "2025-01-29T23:59:59",
+      "created_at": "2025-12-29T08:45:00",
+      "status": "active"
+    }
+  ]
+}
